@@ -104,3 +104,10 @@ app.get('/about', function(req, res){
     res.render('about', { text: "random text" });
 });
 ```
+
+# 4. Tidying Up
+
+Best Practices
+- Version control
+- npm packages
+- module exports
