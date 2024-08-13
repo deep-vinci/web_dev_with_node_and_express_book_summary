@@ -111,3 +111,20 @@ Best Practices
 - Version control
 - npm packages
 - module exports
+
+# 5. Quality Assurance
+
+Stupid shit
+
+# 6. The Request and Response Objects
+
+`https://localhost:3000/about?test=1#history`
+
+```
+http:// -> protocol
+localhost -> hostname
+:30 -> port name
+/about -> path
+?test=1 -> querystring
+#history -> fragment
+```
