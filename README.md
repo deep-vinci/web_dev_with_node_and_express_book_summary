@@ -284,3 +284,6 @@ app.post("/process-contact", function (req, res) {
 ## Providing an API
 
 WIP
+
+# Templating with handlebars
+
